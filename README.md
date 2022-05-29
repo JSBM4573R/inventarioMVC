@@ -3,8 +3,8 @@ Reto 3 Java - Programa que genera un informe de los productos de un inventario u
 
 ### Descripcion del Reto:
 
-1. Usar la arquitectura en capas por medio de Modelo, Vista y Controlador.<br>
-2. Se debe usar Swing para que el usuario pueda tener una vista de interaccion dianmica. <br>
+1. Usar la arquitectura en capas por medio de Modelo, Vista, Controlador.<br>
+2. Se debe usar Swing para que el usuario pueda tener una vista de interaccion dinámica. <br>
 3. Crear una clase Producto con los siguientes atributos, codigo, nombre, precio, inventario. <br>
 3. Estos productos deben estar guardados en un HashMap. <br>
 4. Se deben listar automaticamente los productos en una tabla y cada vez que el usuario seleccione uno de ellos cargue las cajas de texto para que el usuario pueda actializar. <br>
