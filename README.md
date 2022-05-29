@@ -9,3 +9,4 @@ Estos productos deben estar guardados en un HashMap. <br>
 Se deben crear metodos para listar todos los productos, agregar un producto, actualizar un producto, borrar un producto. <br>
 Ademas de imprimir el producto con el precio mayor, el producto con el precio menor y su promedio mas el valor de todo el inventario de productos. <br>
 Se debe usar Swing para que el usuario pueda tener una vista de interaccion dianmica. <br>
+Adicionalmente se debe implementar un boton de informes el cual dara 3 productos con el precio mayor en una sola linea.<br>
